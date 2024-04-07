@@ -1,2 +1,3 @@
 # CS50x2023
-All the CS50 outputs I've accomplished
+This repo contains all the outputs that I have accomplished throughout the course. I'll do my best to update this from time to time.
+I skipped week 0 of CS50 because it was just Scratch which I got sick of doing after making a large project on it.
